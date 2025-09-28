@@ -138,6 +138,8 @@ dmypy.json
 *.DS_Store
 tmp_*
 examples/fine-tuned_qa/local_cache/*
+QdrantDB/
+skills/contextual-embeddings/data/base_db/
 
 # CI/CD and testing
 .model_cache.json

@@ -11,6 +11,8 @@ dependencies = [
     "pandas>=2.2.3",
     "python-dotenv>=1.1.1",
     "voyageai>=0.3.5",
+    "openai>=1.109.1",
+    "qdrant-client>=1.15.1",
 ]
 
 [project.optional-dependencies]
